@@ -1,3 +1,5 @@
+export NDK_ROOT="/Users/Bill/Development/android-ndk-r9"
+
 APPNAME="ccxPlaneWar"
 
 # options
